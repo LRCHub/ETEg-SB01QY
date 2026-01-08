@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Little Dark Age",
+  "base_artist": "MGMT",
+  "createdAt": "2026-01-08T18:43:37.426103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/01_Little_Dark_Age_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/02_Little_Dark_Age_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "Astrophysics",
+      "has_synced": true,
+      "path": "select/03_Little_Dark_Age_Astrophysics.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/04_Little_Dark_Age_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "Astrophysics & Hatsune Miku",
+      "has_synced": true,
+      "path": "select/05_Little_Dark_Age_Astrophysics_&_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Dark Age (Ghost Vision Remix)",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/06_Little_Dark_Age_(Ghost_Vision_Remix)_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/07_Little_Dark_Age_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/08_Little_Dark_Age_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little Dark Age (Video)",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/09_Little_Dark_Age_(Video)_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "little dark age",
+      "artist": "Rodi!",
+      "has_synced": true,
+      "path": "select/10_little_dark_age_Rodi!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Little Dark Age - Slowed",
+      "artist": "Lofis",
+      "has_synced": true,
+      "path": "select/11_Little_Dark_Age_-_Slowed_Lofis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MGMT - Little Dark Age (Video)",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/12_MGMT_-_Little_Dark_Age_(Video)_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Little Dark Age (Video)",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/13_Little_Dark_Age_(Video)_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/14_Little_Dark_Age_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "MGMTVEVO",
+      "has_synced": true,
+      "path": "select/15_Little_Dark_Age_MGMTVEVO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "little dark age x washing machine heart (slowed reverb)",
+      "artist": "ciaffa feat. fedo DJ & kadirhho",
+      "has_synced": true,
+      "path": "select/16_little_dark_age_x_washing_machine_heart_(slowed_reverb)_ciaffa_feat._fedo_DJ_&_kadirhho.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Little Dark Age (SUPER BONUS TRACK)",
+      "artist": "Astrophysics",
+      "has_synced": true,
+      "path": "select/17_Little_Dark_Age_(SUPER_BONUS_TRACK)_Astrophysics.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Little Dark Age",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/18_Little_Dark_Age_MGMT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Little Dark Age",
+      "artist": "MGMT",
+      "has_synced": false,
+      "path": "select/pl_01_Little_Dark_Age_MGMT.txt"
+    }
+  ]
+}
